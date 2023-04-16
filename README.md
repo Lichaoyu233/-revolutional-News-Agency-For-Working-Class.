@@ -10,7 +10,7 @@
 
 # 第277期
 
-![工具人真理报（终稿）_1](https://user-images.githubusercontent.com/63246764/232297116-78d19d05-c61e-484b-8186-98593d44bea6.png)
+![工具人真理报（终稿）_1](https://user-images.githubusercontent.com/63246764/232305880-4f32b622-d6e1-4edc-adb9-87c2b115ec82.png)
 ![工具人真理报（终稿）_2](https://user-images.githubusercontent.com/63246764/232297127-f5658b2b-fe13-4538-8bab-960d5a0cc6e8.png)
 ![工具人真理报（终稿）_3](https://user-images.githubusercontent.com/63246764/232297131-5cfaa2d6-f9e0-40b0-9406-5ca6ff40f124.png)
 ![工具人真理报（终稿）_4](https://user-images.githubusercontent.com/63246764/232297134-521f7d42-4107-42d2-99d5-e2433adec2fa.png)
